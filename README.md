@@ -26,7 +26,6 @@ For information on how to collect your own data and train the model, refer to th
 - PyTorch
 - Ultralytics AI
 - OpenCV
-- Mediapipe
 
 ## Contributing
 N/A
